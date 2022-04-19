@@ -1,3 +1,5 @@
+require("autocmds")
+
 local M = {}
 
 local get_config_dir = function()
