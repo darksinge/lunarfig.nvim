@@ -4,8 +4,8 @@ Lunarfig is a plugin for [Lunarvim](https://lunarvim.org), which aims to
 provide an easy-to-use configuration experience similar to `settings.json` in
 VSCode.
 
-> **Warning**: This plugin is in the _very_ early stages of development. As in
-> the pre-alpha stage. So, you probably don't want to use it yet.
+**Warning**: This plugin is in the _VERY_ early stages of development. As in
+the pre-alpha stage. So, you probably don't want to use it yet.
 
 ## Why Lunarfig?
 
