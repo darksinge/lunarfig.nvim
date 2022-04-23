@@ -9,7 +9,7 @@ the pre-alpha stage. So, you probably don't want to use it yet.
 
 ## Why Lunarfig?
 
-This plugin is targeted toward those coming from VSCode and aims to provide a
+This plugin aims to provide a
 similar experience to VSCode's `settings.json` while aiding the journey towards
 full Neovim adoption.
 
